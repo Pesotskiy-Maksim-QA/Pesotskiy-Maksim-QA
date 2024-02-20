@@ -1,4 +1,4 @@
-### Hello.My name is Maksim Pesotskiy and I QA. 👋
+### Hello.My name is Maksim Pesotskiy and  i am a tester.. 👋
 
 <!--
 **Pesotskiy-Maksim-QA/Pesotskiy-Maksim-QA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
