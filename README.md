@@ -1,6 +1,7 @@
 ### Hello.My name is Maksim Pesotskiy and  i am a tester.. 👋
 ![Header](https://github.com/Pesotskiy-Maksim-QA/Pesotskiy-Maksim-QA/blob/main/assets/1614645669_10-p-fon-garri-potter-dlya-fotoshopa-11.jpg)
 ![Profile_views](https://komarev.com/ghpvc/?username=Pesotskiy-Maksim-QA&color=blue&style=plasyic)
+![Postman](https://img.shields.io/badge/-Postman-000010?style=for-the-badge&logo=postman)
 <!--
 **Pesotskiy-Maksim-QA/Pesotskiy-Maksim-QA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
